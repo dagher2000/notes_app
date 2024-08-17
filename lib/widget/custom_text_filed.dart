@@ -8,13 +8,13 @@ class CustomTextFiled extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return TextField(
-      cursorColor: KPrimaryCOlor,
+      cursorColor: kPrimaryCOlor,
       maxLines: maxLines,
       decoration: InputDecoration(
         hintText: hint,
         border: buildBorder(),
         enabledBorder: buildBorder(),
-        focusedBorder: buildBorder(KPrimaryCOlor),
+        focusedBorder: buildBorder(kPrimaryCOlor),
       ),
     );
   }

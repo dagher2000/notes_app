@@ -10,7 +10,7 @@ class CUstomButton extends StatelessWidget {
       width: MediaQuery.of(context).size.width,
       height: 55,
       decoration: BoxDecoration(
-        color: KPrimaryCOlor,
+        color: kPrimaryCOlor,
         borderRadius: BorderRadius.circular(
           16,
         ),
