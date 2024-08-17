@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:note_app/conestants.dart';
 import 'package:note_app/widget/custom_buton.dart';
 import 'package:note_app/widget/custom_text_filed.dart';
 
